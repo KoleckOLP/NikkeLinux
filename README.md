@@ -5,7 +5,7 @@ A guide and automation script to get **Goddess of Victory: NIKKE** running on Li
 ## 🛠 How to Install
 
 1.  **Install Steam:** Make sure Steam is installed for your distro (Steam is required for the Anti-Cheat to initialize).
-2.  **Download MiniLoader:** Get `NikkeMiniloader0.0.6.143.exe` from this repo or Archive.org.
+2.  **Download MiniLoader:** Get `NikkeMiniloader0.0.6.143.exe` from this repo or https://nikke-en.com/NikkeMiniloader0.0.6.143.exe or https://web.archive.org/web/20230215142046/https://nikke-en.com/NikkeMiniloader0.0.6.143.exe
 3.  **Proton Setup:** Use **ProtonPlus** to install **ProtonGE 10-25** or newer (latest is recommended; 10-28 was used during testing). Restart Steam after installing.
 4.  **Add to Steam:** Add `NikkeMiniloader0.0.6.143.exe` as a **Non-Steam Game**. Set the compatibility to the ProtonGE version you downloaded.
 5.  **Initial Install:** Launch the game through Steam and install it to `C:\NIKKE`.
